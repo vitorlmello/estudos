@@ -3,7 +3,7 @@
   Introdução
 </h2>
 
-Um desafio proposto e realizado junto do meu amigo, [Jordhan](https://github.com/JordhanFelix) , para aprimorar nossos conhecimentos em programação e expandir a medida que seguimos realizando cursos na plataforma [TreinaWeb](https://www.treinaweb.com.br/).
+Um desafio proposto e realizado junto do meu amigo, [Jordhan](https://github.com/JordhanFelix) , para aprimorar nossos conhecimentos em programação e expandir a medida que seguimos realizando cursos.
 
 
 ## Tecnologias
