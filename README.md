@@ -15,6 +15,7 @@
 Um desafio proposto e realizado junto do meu amigo, [Jordhan](https://github.com/JordhanFelix), para aprimorar e expandir nossos conhecimentos em programação a medida que realizamos novos cursos.
 
 ## :wrench: Tecnologias
+* [C](https://github.com/vitorlmello/estudos/tree/main/C)
 * C#
 
 ## :mortar_board: Cursos
