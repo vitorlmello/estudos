@@ -14,7 +14,7 @@
 
 Alguns codigos desenvolvidos usando a linguagem C. O objetivo deste desenvolvimento é praticar o inicio da Logica de Programação utilizando C.
 
-Exemplo 1: Calculo de Area 
+Exemplo 1: Calculo de Perímetro 
 
 Monte um algoritmo de modo que seja possível ler as medidas dos lados de um retângulo (comprimento e largura) calcule e informe a área e o perímetro do retângulo. Lembre-se: a área de um retângulo é definida por comprimento * altura e o perímetro é definido por 2 * comprimento + 2 * altura.
 
